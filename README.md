@@ -1,6 +1,6 @@
 # restmail - Go Package to talk to restmail.net
 
-[![Build Status](https://travis-ci.org/st3fan/gorestmail.svg?branch=master)](https://travis-ci.org/st3fan/gorestmail)
+[![Build Status](https://travis-ci.org/st3fan/restmail.svg?branch=master)](https://travis-ci.org/st3fan/restmail)
 
 *Stefan Arentz, April 2017*
 
