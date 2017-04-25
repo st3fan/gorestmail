@@ -11,7 +11,7 @@ import (
 	"net/textproto"
 	"testing"
 
-	"github.com/st3fan/gorestmail/restmail"
+	"github.com/st3fan/restmail"
 )
 
 func randomHexString(length int) (string, error) {
